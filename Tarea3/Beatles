@@ -1,0 +1,18 @@
+public class Beatles {
+    class Main {
+        public static void main(String[] args) {
+            
+            String band = "Queen";
+            
+            if (band == "Beatles") { // start of block
+                System.out.print("Yellow Submarine");
+                System.out.print("Come Togheter");
+            } // end of blockg
+            if (band == "Queen") { // start of block
+                System.out.print("Radio Gaga");
+                System.out.print("Killer Queen");
+            }
+        }
+    }
+    
+}
